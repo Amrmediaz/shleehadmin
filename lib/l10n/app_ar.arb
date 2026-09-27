@@ -1,0 +1,68 @@
+{
+  "@@locale": "ar",
+
+  "appTitleOwner": "شاليه.كوم — المالك",
+
+  "email": "البريد الإلكتروني",
+  "enterEmail": "أدخل بريدك الإلكتروني",
+  "password": "كلمة المرور",
+  "enterPassword": "أدخل كلمة المرور",
+  "login": "تسجيل الدخول",
+  "loginFailed": "فشل تسجيل الدخول",
+  "logout": "تسجيل الخروج",
+  "languageToggleTooltip": "تغيير اللغة",
+
+  "dashboard": "الرئيسية",
+  "bookings": "الحجوزات",
+  "payments": "المدفوعات",
+
+  "customers": "العملاء",
+  "chalets": "الشاليهات",
+  "hotelBuildings": "المباني الفندقية",
+  "buildingOwners": "ملاك المباني",
+  "hotelBookings": "حجوزات الفنادق",
+  "revenue": "الإيرادات",
+  "hotelRevenue": "إيرادات الفنادق",
+
+  "paid": "مدفوع",
+  "notPaid": "غير مدفوع",
+  "noPaidBookings": "لا توجد حجوزات مدفوعة بعد.",
+  "noUnpaidBookings": "لا توجد حجوزات غير مدفوعة حالياً.",
+
+  "bookingNumber": "الحجز رقم {id}",
+  "daysCount": "{count} يوم",
+
+  "booking": "الحجز",
+  "bookedDays": "أيام الحجز",
+  "customer": "العميل",
+  "chalet": "الشاليه",
+  "cost": "التكلفة",
+  "insurance": "التأمين",
+  "days": "الأيام",
+  "created": "تاريخ الإنشاء",
+  "note": "ملاحظة",
+  "name": "الاسم",
+  "phone": "الهاتف",
+  "type": "النوع",
+  "location": "الموقع",
+  "capacity": "السعة",
+  "fullDayRate": "سعر اليوم الكامل",
+  "fullDay": "يوم كامل",
+  "halfDay": "نصف يوم",
+
+  "enablePayment": "تفعيل الدفع",
+  "enablePaymentForBooking": "تفعيل الدفع — الحجز رقم {id}",
+  "paymentType": "نوع الدفع",
+  "paymentTypeOption1": "النوع 1",
+  "paymentTypeOption2": "النوع 2",
+  "confirm": "تأكيد",
+
+  "somethingWentWrong": "حدث خطأ ما.",
+  "noPayments": "لا توجد مدفوعات بعد.",
+  "orderNumber": "الطلب رقم {id}",
+
+  "retry": "إعادة المحاولة",
+  "previous": "السابق",
+  "next": "التالي",
+  "pageOfPage": "صفحة {current} من {total}"
+}

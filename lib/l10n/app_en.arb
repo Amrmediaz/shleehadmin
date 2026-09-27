@@ -1,0 +1,107 @@
+{
+  "@@locale": "en",
+
+  "appTitleOwner": "Shleeh — Owner",
+
+  "email": "Email",
+  "enterEmail": "Enter your email",
+  "password": "Password",
+  "enterPassword": "Enter your password",
+  "login": "Login",
+  "loginFailed": "Login failed",
+  "logout": "Logout",
+  "languageToggleTooltip": "Change language",
+
+  "dashboard": "Dashboard",
+  "bookings": "Bookings",
+  "payments": "Payments",
+
+  "customers": "Customers",
+  "chalets": "Chalets",
+  "hotelBuildings": "Hotel Buildings",
+  "buildingOwners": "Building Owners",
+  "hotelBookings": "Hotel Bookings",
+  "revenue": "Revenue",
+  "hotelRevenue": "Hotel Revenue",
+
+  "paid": "Paid",
+  "notPaid": "Not Paid",
+  "noPaidBookings": "No paid bookings yet.",
+  "noUnpaidBookings": "No unpaid bookings right now.",
+
+  "bookingNumber": "Booking #{id}",
+  "@bookingNumber": {
+    "placeholders": {
+      "id": {
+        "type": "int"
+      }
+    }
+  },
+
+  "daysCount": "{count} day(s)",
+  "@daysCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "booking": "Booking",
+  "bookedDays": "Booked Days",
+  "customer": "Customer",
+  "chalet": "Chalet",
+  "cost": "Cost",
+  "insurance": "Insurance",
+  "days": "Days",
+  "created": "Created",
+  "note": "Note",
+  "name": "Name",
+  "phone": "Phone",
+  "type": "Type",
+  "location": "Location",
+  "capacity": "Capacity",
+  "fullDayRate": "Full-day rate",
+  "fullDay": "Full day",
+  "halfDay": "Half day",
+
+  "enablePayment": "Enable Payment",
+  "enablePaymentForBooking": "Enable Payment — Booking #{id}",
+  "@enablePaymentForBooking": {
+    "placeholders": {
+      "id": {
+        "type": "int"
+      }
+    }
+  },
+  "paymentType": "Payment Type",
+  "paymentTypeOption1": "Type 1",
+  "paymentTypeOption2": "Type 2",
+  "confirm": "Confirm",
+
+  "somethingWentWrong": "Something went wrong.",
+  "noPayments": "No payments yet.",
+  "orderNumber": "Order #{id}",
+  "@orderNumber": {
+    "placeholders": {
+      "id": {
+        "type": "int"
+      }
+    }
+  },
+
+  "retry": "Retry",
+  "previous": "Previous",
+  "next": "Next",
+  "pageOfPage": "Page {current} of {total}",
+  "@pageOfPage": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  }
+}
